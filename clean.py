@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = r"C:\Users\haoha\OneDrive\Desktop\personal\Personal Projects\SG Toilet Ratings\SG Toilet Ratings Updated.xlsx"
+file_path = r"file path of your excel/csv file"
 general_data = pd.read_excel(file_path, sheet_name="General Data")
 
 print(general_data.head())
