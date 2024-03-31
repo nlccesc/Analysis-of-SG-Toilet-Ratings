@@ -3,7 +3,7 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 
-file_path = r"C:\Users\haoha\OneDrive\Desktop\personal\Personal Projects\SG Toilet Ratings\Cleaned_SG_Toilet_Ratings.xlsx"
+file_path = r"file path of your excel/csv file"
 cleaned_data = pd.read_excel(file_path)
 
 # Convert all columns to numeric, skipping non-numeric ones
