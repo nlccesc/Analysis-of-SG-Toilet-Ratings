@@ -1,7 +1,7 @@
 import pandas as pd
 from scipy.stats import pearsonr
 
-file_path = r"C:\Users\haoha\OneDrive\Desktop\personal\Personal Projects\SG Toilet Ratings\Cleaned_SG_Toilet_Ratings.xlsx"
+file_path = r"your_file_path"
 cleaned_data = pd.read_excel(file_path)
 
 # Convert all columns to numeric if needed.
