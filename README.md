@@ -44,7 +44,7 @@ correlation_testing.py
 
 - Computes the correlation matrix for the numeric columns.
 
-- A mask is created for the upper triangle of the correlation matrix. Due to the symmetric properties of the matrix, the heatmap for the correlation matrix will the same information on both sides of the diagonal.
+- A mask is created for the upper triangle of the correlation matrix. Due to the symmetric properties of the matrix, the heatmap for the correlation matrix will be the same information on both sides of the diagonal.
 
 - Generated a custom diverging color map for the heatmap for coloring of cells in the heatmap.
 
@@ -68,6 +68,7 @@ Clenaned_SG_Toilet_Ratings.xlsc:
 - Cleaned data of the file above.
 
 
+Credits:
 raw data with courtesy of @eggmayosandwich on r/sgexams
 
 Link: https://www.reddit.com/r/SGExams/comments/1brmuvx/i_reviewed_150_toilets_ama/?share_id=XrR118cUccMyxOcnKABy2&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1
