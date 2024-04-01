@@ -1,4 +1,4 @@
-# Analysis-of-SG-Toilet-Ratings
+# Analysis of SG Toilet Ratings
 
 The following project is more of a spur of the moment idea and I just didn't want the data that was thoroughly gathered to go to waste.
 
