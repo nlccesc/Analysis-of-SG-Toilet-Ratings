@@ -54,7 +54,12 @@ regression_analysis.py
 - Performs linear regression analyis
 - After cleaning the data and aligning indices, it adds a constant for the intercept term in the statsmodels OLS model. The data is then split into training and testing sets, and the OLS model is fitted.
 - The script prints a summary of the model fit, parses this summary to create a human-readable summary, and identifies statistically significant variables. It then fits a sklearn linear regression model, predicts the target variable on the test set, and evaluates the model performance by calculating the Mean Squared Error (MSE) and R-squared (R2). Finally, it plots the actual vs predicted values to visualize the model's performance.
-- Run the code to view all combinations and their statistical significance.
+- Run the code to view all combinations and their statistical significance. (It will take awhile)
+
+
+raw data with courtesy of @eggmayosandwich on r/sgexams
+
+Link: https://www.reddit.com/r/SGExams/comments/1brmuvx/i_reviewed_150_toilets_ama/?share_id=XrR118cUccMyxOcnKABy2&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1
 
 
 
