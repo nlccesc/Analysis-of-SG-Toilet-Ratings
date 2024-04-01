@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from itertools import combinations
 
 # Load the dataset
-file_path = r"C:\Users\haoha\OneDrive\Desktop\personal\Personal Projects\SG Toilet Ratings\Cleaned_SG_Toilet_Ratings.xlsx"
+file_path = r"your_file_path"
 data = pd.read_excel(file_path)
 
 # Define the target variable
