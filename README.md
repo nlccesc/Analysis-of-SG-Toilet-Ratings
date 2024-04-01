@@ -57,6 +57,17 @@ regression_analysis.py
 - Run the code to view all combinations and their statistical significance. (It will take awhile)
 
 
+Datasets:
+
+SG Toilet Ratings Updated.xlsx:
+
+- data provided by the students.
+
+Clenaned_SG_Toilet_Ratings.xlsc:
+
+- Cleaned data of the file above.
+
+
 raw data with courtesy of @eggmayosandwich on r/sgexams
 
 Link: https://www.reddit.com/r/SGExams/comments/1brmuvx/i_reviewed_150_toilets_ama/?share_id=XrR118cUccMyxOcnKABy2&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1
